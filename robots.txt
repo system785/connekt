@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Служебные и неиндексируемые разделы
+Disallow: /assets/js/
+Disallow: /404.html
+
+# Карта сайта
+Sitemap: https://system785.github.io/connekt/sitemap.xml
